@@ -1,0 +1,9 @@
+.card{
+    margin: 0 auto;
+    float: none;
+    height: 100%;
+}
+img{    
+    background-color: transparent; /* Ensure no background */
+    filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.3)); /* Add shadow to image */
+}
